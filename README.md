@@ -4,7 +4,7 @@
 </p>
 <img align="right" alt="Coding" width="400" src="https://cdn-fphbc.nitrocdn.com/qoghzuucXCXzuGelskqTYEjAMqwfiisP/assets/images/optimized/rev-23e383c/wp-content/uploads/2022/01/Back-End-Developer-Node-JS-2.gif">
 <!-- Introduction -->
-<h2 align="center">Hi, I'm Shashi Sharde 👋</h2>
+
  <p >
   🌱 I'm learning backend development with a variety of languages and frameworks. My primary focus is on building scalable, maintainable, and secure applications using best practices and industry standards.
 </p>
