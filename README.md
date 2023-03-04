@@ -4,7 +4,7 @@
 </p>
 <!-- Introduction -->
 <h2 align="center">Hi, I'm Shashi Sharde 👋</h2>
- <p align="center">
+ <p >
   🌱 I'm learning backend development with a variety of languages and frameworks. My primary focus is on building scalable, maintainable, and secure applications using best practices and industry standards.
 </p>
 
